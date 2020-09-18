@@ -1,0 +1,33 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "nama": "Desta",
+      "alamat": "Jakarta",
+      "umur": 30,
+      "nohp": "08989018913"
+    },
+    {
+      "id": 2,
+      "nama": "Fadilah",
+      "alamat": "Jakarta",
+      "umur": 30,
+      "nohp": "08989018913"
+    },
+    {
+      "id": 3,
+      "nama": "Ziyad",
+      "alamat": "Jakarta",
+      "umur": 30,
+      "nohp": "08989018913"
+    },
+    {
+      "id": 4,
+      "nama": "Haikal",
+      "alamat": "Jakarta",
+      "umur": 30,
+      "nohp": "08989018913"
+    }
+  ],
+  "title": "Wahidev Academy ~ ATM"
+}
